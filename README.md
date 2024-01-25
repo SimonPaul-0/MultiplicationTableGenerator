@@ -1,17 +1,20 @@
----
+```markdown
+# Multiplication Table Generator (Java)
+
+A simple Java program that generates a multiplication table based on user input.
 
 ## How to Run
 
 1. Make sure you have Java installed on your system.
-2. Save the Java code in a file ('MultiplicationTableGenerator.java').
+2. Save the Java code in a file (e.g., `MultiplicationTableGenerator.java`).
 3. Open a terminal and navigate to the directory containing the Java file.
-4. Compile the program using 'javac':
+4. Compile the program using `javac`:
 
    ```bash
    javac MultiplicationTableGenerator.java
    ```
 
-5. Run the compiled program:
+5. Run the compiled program using `java`:
 
    ```bash
    java MultiplicationTableGenerator
@@ -48,11 +51,7 @@ Generate another multiplication table? (yes/no): yes
 
 If you have suggestions or would like to contribute, feel free to open an issue or submit a pull request.
 
-## Author
-[Simon Paul]
+Happy multiplication table generating!
+```
 
-Have away with the multiplication table generator :)
-
-Replace `<Java_filename>` with your actual Java file name and customize the content further based on your project's specifics.
-
----
+Please replace `<Java_filename>` with the actual name of your Java file (for example, `MultiplicationTableGenerator.java`).
