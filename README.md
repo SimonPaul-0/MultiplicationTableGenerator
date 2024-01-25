@@ -5,7 +5,7 @@
 1. Make sure you have Java installed on your system.
 2. Save the Java code in a file (e.g., `MultiplicationTableGenerator.java`).
 3. Open a terminal and navigate to the directory containing the Java file.
-4. Compile the program:
+4. Compile the program using `javac`:
 
    ```bash
    javac MultiplicationTableGenerator.java
