@@ -1,9 +1,5 @@
 ---
 
-# Multiplication Table Generator (Java)
-
-A simple Java program that generates a multiplication table based on user input.
-
 ## How to Run
 
 1. Make sure you have Java installed on your system.
