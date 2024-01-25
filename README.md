@@ -55,7 +55,7 @@ If you have suggestions or would like to contribute, feel free to open an issue 
 ## Author
 [Simon Paul]
 
-Have away with multiplication table generating :)
+Have away with the multiplication table generator :)
 
 Replace `<Java_filename>` with your actual Java file name and customize the content further based on your project's specifics.
 
