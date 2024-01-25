@@ -1,42 +1,62 @@
 ---
 
-# Number Guessing Game (JavaScript)
+# Multiplication Table Generator (Java)
 
-Welcome to the Number Guessing Game implemented in JavaScript! Try to guess the correct number within a specified number of attempts.
+A simple Java program that generates a multiplication table based on user input.
 
 ## How to Run
 
-- **Browser Console:**
-  - Open your browser console (usually by pressing F12 or right-clicking on the page and selecting "Inspect," then going to the "Console" tab).
-  - Copy and paste the provided JavaScript code into the console.
-  - Press Enter to run the game.
+1. Make sure you have Java installed on your system.
+2. Save the Java code in a file (e.g., `MultiplicationTableGenerator.java`).
+3. Open a terminal and navigate to the directory containing the Java file.
+4. Compile the program:
 
-- **Node.js:**
-  - Make sure you have Node.js installed.
-  - Save the JavaScript code in a file (e.g., `NumberGuessingGame.js`).
-  - Run the file using Node.js:
+   ```bash
+   javac MultiplicationTableGenerator.java
+   ```
 
-    ```bash
-    node NumberGuessingGame.js
-    ```
+5. Run the compiled program:
 
-## Gameplay
+   ```bash
+   java MultiplicationTableGenerator
+   ```
 
-- The program will generate a random number between 1 and 100.
-- You have a limited number of attempts to guess the correct number.
-- After each guess, the program provides feedback on whether your guess is too high, too low, or correct.
+## Usage
 
-## Customization
+1. Enter a number for which the multiplication table will be generated.
+2. Enter the start and end of the range for the multiplication table.
+3. The program will generate and display the multiplication table.
+4. Optionally, generate another multiplication table.
 
-Feel free to customize the code to change the number range, maximum attempts, or any other aspects of the game to suit your preferences.
+## Example
+
+```bash
+Welcome to the Multiplication Table Generator!
+
+Enter a number: 7
+Enter the start of the range: 2
+Enter the end of the range: 5
+
+Multiplication Table for 7 in the range 2 to 5:
+
+7 * 2 = 14
+7 * 3 = 21
+7 * 4 = 28
+7 * 5 = 35
+
+Generate another multiplication table? (yes/no): yes
+...
+```
 
 ## Contributions
 
-If you have ideas for improvements or new features, feel free to contribute by opening an issue or submitting a pull request.
+If you have suggestions or would like to contribute, feel free to open an issue or submit a pull request.
 
 ## Author
 [Simon Paul]
 
-Good Luck :)
+Have away with multiplication table generating :)
+
+Replace `<Java_filename>` with your actual Java file name and customize the content further based on your project's specifics.
 
 ---
