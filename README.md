@@ -1,4 +1,5 @@
-```markdown
+---
+
 # Multiplication Table Generator (Java)
 
 A simple Java program that generates a multiplication table based on user input.
@@ -52,6 +53,7 @@ Generate another multiplication table? (yes/no): yes
 If you have suggestions or would like to contribute, feel free to open an issue or submit a pull request.
 
 Happy multiplication table generating!
-```
 
 Please replace `<Java_filename>` with the actual name of your Java file (for example, `MultiplicationTableGenerator.java`).
+
+---
