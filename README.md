@@ -57,6 +57,4 @@ If you have suggestions or would like to contribute, feel free to open an issue 
 
 Have away with the multiplication table generator :)
 
-Please replace `<Java_filename>` with the actual name of your Java file (for example, `MultiplicationTableGenerator.java`).
-
 ---
